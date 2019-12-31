@@ -1,0 +1,135 @@
+#banner {
+    
+    background-color:#F17A3A;
+    
+    
+    
+  }
+
+
+.wrapper{
+    margin:0 auto;
+}
+  .heading{
+     margin-top: 100px;
+     color: white;
+     margin-bottom: 100px;
+      
+
+  }
+
+.layer{
+    height:200px;
+    width:200px;
+    margin:0 auto;
+}
+
+
+  .layer1{
+    background-image: url("../../assets/images/edu.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+.layer2{
+    background-image: url("../../assets/images/electricity.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  
+}
+
+
+.layer3{
+    background-image: url("../../assets/images/emergency.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+  
+}
+
+.layer4{
+    background-image: url("../../assets/images/fire.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  
+}
+
+.layer5{
+    background-image: url("../../assets/images/gas.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  
+}
+.layer6{
+    background-image: url("../../assets/images/health.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  
+}
+
+.layer7{
+    background-image: url("../../assets/images/infra.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.layer8{
+    background-image: url("../../assets/images/law.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.layer9{
+    background-image: url("../../assets/images/police.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.layer10{
+    background-image: url("../../assets/images/publictransit.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.layer11{
+    background-image: url("../../assets/images/social.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.layer12{
+    background-image: url("../../assets/images/waste.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+
+
+  @media screen and (max-width:992px){
+
+    .heading{
+        position:relative;
+    left:0px;
+    top:0px;
+
+    text-align: center;
+        width:100%;
+        
+  
+    }
+
+
+    .layer{
+        margin:0 auto;
+    }
+  }

@@ -1,0 +1,16 @@
+.card{
+    height:540px;
+}
+
+.policytype p{
+    
+    color:grey;
+    font-weight:400;
+}
+.policytype h3{
+    font-weight: 400;
+}
+.policytype{
+    padding:0.5rem;
+}
+

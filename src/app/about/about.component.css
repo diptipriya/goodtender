@@ -1,0 +1,83 @@
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+
+.about{
+
+    
+  padding: 50px;
+    
+
+}
+
+.about h2,.about h3{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+
+.about p{
+    text-align: left;
+    color:grey;
+
+    font-size: 28px;
+
+    padding: 50px 100px 50px 100px;
+
+}
+
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+    
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  
+
+  .about .form{
+
+    margin-top: 50px;
+      margin-left:333px;
+      
+  }
+
+  .about .contact h3{
+      text-align: center;
+  }
+
+
+
+
+
+  @media screen and (max-width:992px){
+
+    .contact{
+        
+      color:black;  
+  
+    }
+
+    .about{
+      padding:20px;
+    }
+
+
+
+    .about p{
+      text-align: left;
+      color:grey;
+  
+      font-size: 1.5rem;
+  
+      padding: 10px 20px 10px 20px;
+  
+  }
+    .about .form{
+        margin-top:20px;
+        margin-left: 0px;
+    }
+  }
